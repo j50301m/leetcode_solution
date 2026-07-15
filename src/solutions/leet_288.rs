@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::{collections::HashMap, format};
 
 pub struct ValidWordAbbr {
     abbreviation: HashMap<String, Option<String>>, // Key: abbr, Val: Some(唯一擁有者) / None(多字共用)
