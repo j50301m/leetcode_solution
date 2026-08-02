@@ -33,6 +33,7 @@ pub mod leet_320;
 pub mod leet_322;
 pub mod leet_3312;
 pub mod leet_3336;
+pub mod leet_334;
 pub mod leet_345;
 pub mod leet_3499;
 pub mod leet_3517;
