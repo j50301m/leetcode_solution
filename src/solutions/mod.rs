@@ -50,6 +50,7 @@ pub mod leet_3536;
 pub mod leet_3658;
 pub mod leet_3731;
 pub mod leet_3867;
+pub mod leet_392;
 pub mod leet_443;
 pub mod leet_464;
 pub mod leet_486;
