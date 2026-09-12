@@ -2,6 +2,7 @@ pub mod hard_leet_1872;
 pub mod hard_leet_2213;
 pub mod hard_leet_2355;
 pub mod hard_leet_3116;
+pub mod hard_leet_3414;
 pub mod hard_leet_3501;
 pub mod leet_1;
 pub mod leet_1004;
