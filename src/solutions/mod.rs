@@ -86,6 +86,7 @@ pub mod leet_2300;
 pub mod leet_2336;
 pub mod leet_2352;
 pub mod leet_236;
+pub mod leet_2361;
 pub mod leet_238;
 pub mod leet_2390;
 pub mod leet_2413;
