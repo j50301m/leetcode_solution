@@ -164,6 +164,7 @@ pub mod leet_62;
 pub mod leet_628;
 pub mod leet_643;
 pub mod leet_649;
+pub mod leet_678;
 pub mod leet_700;
 pub mod leet_704;
 pub mod leet_714;
