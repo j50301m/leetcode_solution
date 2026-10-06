@@ -21,6 +21,7 @@ pub mod leet_1111;
 pub mod leet_1137;
 pub mod leet_1140;
 pub mod leet_1143;
+pub mod leet_1146;
 pub mod leet_1148;
 pub mod leet_115;
 pub mod leet_1161;
