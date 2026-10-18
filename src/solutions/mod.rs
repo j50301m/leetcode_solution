@@ -1,5 +1,6 @@
 pub mod hard_leet_1096;
 pub mod hard_leet_1477;
+pub mod hard_leet_1569;
 pub mod hard_leet_1621;
 pub mod hard_leet_1872;
 pub mod hard_leet_2213;
@@ -150,6 +151,7 @@ pub mod leet_3517;
 pub mod leet_3525;
 pub mod leet_3536;
 pub mod leet_3550;
+pub mod leet_3551;
 pub mod leet_3568;
 pub mod leet_3622;
 pub mod leet_3658;
