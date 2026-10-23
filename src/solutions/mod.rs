@@ -130,6 +130,7 @@ pub mod leet_3006;
 pub mod leet_301;
 pub mod leet_3014;
 pub mod leet_3016;
+pub mod leet_3036;
 pub mod leet_3069;
 pub mod leet_307;
 pub mod leet_308;
