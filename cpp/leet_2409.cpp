@@ -41,13 +41,23 @@ private:
 };
 
 int main() {
-    assert(Solution().countDaysTogether("08-15", "08-18", "08-16", "08-19") == 3);
-    assert(Solution().countDaysTogether("10-01", "10-31", "11-01", "12-31") == 0);
+    assert(
+        Solution().countDaysTogether("08-15", "08-18", "08-16", "08-19") == 3
+    );
+    assert(
+        Solution().countDaysTogether("10-01", "10-31", "11-01", "12-31") == 0
+    );
     // 只重疊一天（交界日）
-    assert(Solution().countDaysTogether("01-01", "01-10", "01-10", "01-20") == 1);
+    assert(
+        Solution().countDaysTogether("01-01", "01-10", "01-10", "01-20") == 1
+    );
     // 跨月：02-27 ~ 03-02，2 月有 28 天
-    assert(Solution().countDaysTogether("01-30", "03-02", "02-27", "12-31") == 4);
+    assert(
+        Solution().countDaysTogether("01-30", "03-02", "02-27", "12-31") == 4
+    );
     // 整年
-    assert(Solution().countDaysTogether("01-01", "12-31", "01-01", "12-31") == 365);
+    assert(
+        Solution().countDaysTogether("01-01", "12-31", "01-01", "12-31") == 365
+    );
     cout << "all pass" << endl;
 }
