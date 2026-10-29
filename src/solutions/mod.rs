@@ -10,6 +10,7 @@ pub mod hard_leet_3116;
 pub mod hard_leet_3414;
 pub mod hard_leet_3501;
 pub mod hard_leet_3524;
+pub mod hard_leet_3841;
 pub mod hard_leet_4;
 pub mod hard_leet_4094;
 pub mod hard_leet_790;
