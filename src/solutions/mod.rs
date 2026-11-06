@@ -125,6 +125,7 @@ pub mod leet_2509;
 pub mod leet_2527;
 pub mod leet_2542;
 pub mod leet_27;
+pub mod leet_2747;
 pub mod leet_275;
 pub mod leet_278;
 pub mod leet_28;
