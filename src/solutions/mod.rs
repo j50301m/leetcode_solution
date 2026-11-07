@@ -79,6 +79,7 @@ pub mod leet_1734;
 pub mod leet_1762;
 pub mod leet_1764;
 pub mod leet_1807;
+pub mod leet_1882;
 pub mod leet_191;
 pub mod leet_1926;
 pub mod leet_1927;
