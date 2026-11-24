@@ -7,7 +7,7 @@ impl Solution {
         let prime_2_idx = Self::prime_2_idx(&primes, 10);
 
         let mut left = 0usize;
-        let mut max_len = 0usize;
+        let mut max_len = 2usize;
         let mut count = vec![0; primes.len()];
         for right in 0..n {
             let right_factors = Self::find_prime(&prime_2_idx, &primes, nums[right] as usize);
