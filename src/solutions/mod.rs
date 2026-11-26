@@ -20,6 +20,7 @@ pub mod hard_leet_790;
 pub mod leet_1;
 pub mod leet_1003;
 pub mod leet_1004;
+pub mod leet_1011;
 pub mod leet_1021;
 pub mod leet_104;
 pub mod leet_1071;
